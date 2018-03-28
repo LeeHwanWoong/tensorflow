@@ -1,0 +1,5 @@
+model_checkpoint_path: "/Users/LeeHwanWoong/Documents/GitHub/tensorflow/runs/1522146844/checkpoints/model-400"
+all_model_checkpoint_paths: "/Users/LeeHwanWoong/Documents/GitHub/tensorflow/runs/1522146844/checkpoints/model-100"
+all_model_checkpoint_paths: "/Users/LeeHwanWoong/Documents/GitHub/tensorflow/runs/1522146844/checkpoints/model-200"
+all_model_checkpoint_paths: "/Users/LeeHwanWoong/Documents/GitHub/tensorflow/runs/1522146844/checkpoints/model-300"
+all_model_checkpoint_paths: "/Users/LeeHwanWoong/Documents/GitHub/tensorflow/runs/1522146844/checkpoints/model-400"
